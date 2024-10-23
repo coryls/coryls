@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Senior Full Stack AI & Web3 Developer</h1>
+<h1 align="center">Senior Full-Stack AI & Web3 Developer</h1>
 
 ###
 

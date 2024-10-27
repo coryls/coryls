@@ -8,11 +8,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=coryls&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gregorypk&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=8&theme=dracula&hide_border=true&order=2"
     height="175"
     alt="languages graph" />
   <img
-    src="https://streak-stats.demolab.com/?user=coryls&theme=neon&hide_border=true&card_width=420"
+    src="https://streak-stats.demolab.com/?user=gregorypk&theme=neon&hide_border=true&card_width=420"
     height="175"
     alt="languages graph" />
 </div>
